@@ -1,8 +1,12 @@
 {
-  "name": "Tokyonight",
-  "description": "Tokyonight",
-  "version": "1.0.0",
   "manifest_version": 3,
+  "name": "Tokyonight",
+  "description": "Tokyonight theme",
+  "version": "1.0.0",
+  "icons": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+  },
   "theme": {
     "colors": {
       "background_tab": [ 26, 27, 38 ],
